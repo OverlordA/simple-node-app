@@ -1,0 +1,7 @@
+install and start
+
+1 install (node.js + npm ) install git
+2 clone repository command "git clone https://github.com/OverlordA/simple-node-app.git"
+3 go to folder /simple-node-app command example "cd 'pathname'/simple-node-app"
+4 install npm dependency command "npm install"
+5 start node server command "node server.js" or if you have installed nodemon global command "nodemon server.js"
